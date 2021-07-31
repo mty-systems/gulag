@@ -685,11 +685,11 @@ def changeUsername(old: str, new: str) -> bytes:
     )
 
 BOT_STATUSES = (
-    (3, 'the source code..'), # editing
-    (6, 'geohot livestreams..'), # watching
-    (6, 'over the server..'), # watching
-    (8, 'out new features..'), # testing
-    (9, 'a pull request..'), # submitting
+    (3, 'the source code! (its now broken)'), # editing
+    (6, 'mattys sextape'), # watching
+    (6, 'twitch.tv/mattylive_'), # watching
+    (8, 'new features!'), # testing
+    (9, 'a cheated score. Dont tell matty!'), # submitting
 )
 
 # since the bot is always online and is
