@@ -46,7 +46,7 @@ menu_icon = (
 )
 
 # seasonal backgrounds to be displayed ingame.
-seasonal_bgs = ('https://akatsuki.pw/static/flower.png',)
+seasonal_bgs = ('https://web.mty.systems/static/osubg/1.jpg', 'https://web.mty.systems/static/osubg/2.jpg', 'https://web.mty.systems/static/osubg/3.jpg', 'https://web.mty.systems/static/osubg/4.jpg', 'https://web.mty.systems/static/osubg/5.jpg', 'https://web.mty.systems/static/osubg/6.jpg', 'https://web.mty.systems/static/osubg/7.jpg', 'https://web.mty.systems/static/osubg/8.jpg', 'https://web.mty.systems/static/osubg/9.jpg', 'https://web.mty.systems/static/osubg/10.jpg',)
 
 # max amount of multiplayer matches
 # that can be created simultaneously
