@@ -140,3 +140,6 @@ Directory Structure
         ├── cho    # (ce|c4|c5|c6).ppy.sh/* routes (bancho connections)
         ├── osu    # osu.ppy.sh/* routes (mainly /web/ & /api/)
         └── ava    # a.ppy.sh/* routes (avatars)
+
+
+we do a little committing 
